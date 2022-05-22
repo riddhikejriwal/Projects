@@ -1,8 +1,8 @@
 #clockContainer{
     position: relative;
     background-color: red;
-    height: 50vw;
-    width: 50vw;
+    height: 45vw;
+    width: 45vw;
     background: url(images/clock.png) no-repeat;
     background-size: 100%;
     margin:auto;
